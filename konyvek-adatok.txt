@@ -1,0 +1,109 @@
+﻿cím;műfaj;oldalak száma;könyv megírásának éve;eladási ár
+Gyilkosság az Orient expresszen;krimi;250;1934;3000
+Gyilkosság a paplakban;krimi;280;1930;3100
+Poirot karácsonya;krimi;250;1938;2800
+A Bertram Szálló;krimi;250;1965;4000
+Halál a Níluson;krimi;300;1937;2900
+Nemezis;krimi;220;1971;3000
+Rejtély az Antillákon;krimi;220;1964;2500
+Gyilkosság Mezopotámiában;krimi;250;1936;2550
+A titokzatos stylesi eset;krimi;300;1920;2600
+Harry Potter és a bölcsek köve;filmdráma;286;1997;3000
+Harry Potter és a Titkok Kamrája;filmdráma;266;1998;3000
+Harry Potter és az azkabani fogoly;filmdráma;479;1999;3500
+Harry Potter és a Tűz Serlege;filmdráma;623;2000;4000
+Harry Potter és a Főnix Rendje;filmdráma;752;2003;4500
+Harry Potter és a Félvér Herceg;filmdráma;623;2005;4500
+Harry Potter és a halál ereklyéi;filmdráma;653;2007;5000
+A karácsonyi disznó;fantasy;328;2021;3000
+Ickabog;mesekönyv;256;2020;3000
+A kakukkfiú hívogatása;krimi;576;2016;3500
+A ragyogás;horror;672;1977;3500
+Carrie;horror;496;1974;2500
+Az;horror;1152;1986;5000
+A zöld mérföld;thriller;496;1996;3000
+A remény rabja;thriller;560;1982;3500
+A halál játéka;thriller;448;1987;3000
+A kupola;sci-fi;1072;2011;5000
+Az idegen;sci-fi;560;2018;3500
+Revival;sci-fi;528;2014;3000
+A sötét torony;fantasy;3079;1970;3500
+A talizmán;fantasy;768;1984;4000
+A pisztolyhős;fantasy;224;1970;2000
+Az elveszettek;thriller;336;2021;4600
+A túra;thriller;352;2021;3290
+Egy a lányok közül;thriller;344;2023;5000
+A tengeri nővérek;thriller;384;2023;5490
+A lélegzetvétel;fikció;336;2012;4000
+Utolsó látott;fikció;336;2014;4490
+A vietnámi menyasszony;kémthriller;384;2014;5490
+A folyó;kémthriller;448;2015;5490
+Operáció Saigon;kémthriller;448;2016;5490
+A francia lány;kémthriller;448;2017;5490
+A csendes ember;kémthriller;448;2019;5990
+A múlt árnyéka;kémthriller;480;2021;5990
+Az elátkozott ház;humoros regény;304;1932;3990
+Az FBI különleges ügynöke;krimi;288;1933;3490
+A tizennégykarátos gyémánt;kalandregény;448;1935;4990
+A láthatatlan ember;humoros regény;272;1935;3490
+A láthatatlan bűnös;krimi;320;1935;3990
+Mackó, a detektív;gyerekregény;240;1936;3490
+Kísértet-szálló;humoros regény;320;1936;3990
+Piszkos Fred, a kapitány;kalandregény;352;1936;4490
+Veszélyes játék;krimi;368;1937;4490
+Sajnálom, én vagyok;dráma;224;1938;3490
+Az utolsó Zsugorlovag;kalandregény;368;1939;4490
+A dupla gyilkosság;krimi;352;1939;4490
+Három muskétás a vérmezőn;kalandregény;336;1940;4490
+Egy bolond század;humoros regény;352;1940;4490
+Fiatalúr, ne legyen féltékeny!;gyerekregény;224;1940;3490
+Az utolsó bohóc;dráma;256;1941;3490
+Az idő rövid története;tudományos ismeretterjesztő;224;1988;4242
+Az én rövid történetem;önéletrajz;144;2014;3990
+A nagy terv;tudományos ismeretterjesztő;208;2010;5942
+Fekete lyukak;tudományos ismeretterjesztő;112;2016;3990
+A mindenség elmélete;tudományos ismeretterjesztő;192;2002;5490
+George kozmikus kincsvadászata;gyerekregény;128;2018;4750
+George és az Ősrobbanás;gyerekregény;128;2016;4250
+Az idő még rövidebb története;tudományos ismeretterjesztő;56;2005;2990
+A tér és az idő természete;tudományos ismeretterjesztő;576;2000;14990
+A veszedelmes játszma;politikai thriller;640;2010;4990
+A Jack Ryan-jelentés;politikai thriller;640;2003;4990
+A CIA ügynök;politikai thriller;672;2002;4990
+Minden lehetséges;technológiai thriller;832;2000;5990
+A veszedelmes játszma;politikai thriller;640;1999;4990
+A Rainbow Six;katonai thriller;896;1998;5990
+A veszélyes játszma;politikai thrillep;640;1997;4990
+A mindenható játékos;technológiai thriller;752;1996;5990
+Ellenség a mélyben;katonai thriller;768;1993;5490
+A kardiológus jegyzetei;politikai thriller;624;1990;4990
+A vörös vihar;katonai thriller;1248;1986;7990
+A becsület ára;politikai thriller;624;1977;4490
+Minden fegyver csöve;politikai thriller;688;1974;4990
+A vörös nyúlvadászat;politikai thriller;624;1973;4490
+Endstation Malma;regény;320;2022;4490
+Privat: mejlkorrespondens;levelezés;240;2020;4490
+Bränn alla mina brev;regény;352;2018;4490
+A túlélők;regény;336;2016;4490
+Az állomás;regény;384;2013;4990
+Rómeó és Júlia;tragédia;224;1595;3990
+Hamlet;tragédia;368;1600;4490
+Macbeth;tragédia;240;1606;3990
+Othello;tragédia;320;1604;4490
+Lear király;tragédia;352;1605;4490
+A velencei kalmár;vígjáték;256;1594;3990
+Szentivánéji álom;vígjáték;224;1594;3490
+Sok hűhó semmiért;vígjáték;272;1598;3990
+Ahogy tetszik;vígjáték;288;1599;4490
+Tévedések vígjátéka;vígjáték;256;1593;3990
+A vihar;színmű;288;1611;3990
+Sok vihar egy éjszakában;vígjáték;256;1600;3490
+Antonius és Kleopátra;tragédia;336;1607;4490
+Coriolanus;tragédia;272;1608;3990
+Athéni Timon;tragédia;240;1607;3490
+Troilus és Cressida;színmű;320;1601;4490
+Szeget szeggel;színmű;352;1604;4490
+Minden jó, ha vége jó;színmű;272;1600;3990
+Pericles;színmű;320;1609;4490
+Cymbelin;színmű;352;1611;4490
+Téli rege;színmű;320;1613;4490
